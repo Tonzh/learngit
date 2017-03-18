@@ -3,6 +3,8 @@
   <GlyphOrder>
 
   Tonzh git test!
+  Tonzh test 2 !
+  hello!
     <!-- The 'id' attribute is only for humans; it is ignored when parsed. -->
     <GlyphID id="0" name=".notdef"/>
     <GlyphID id="1" name="uni0000"/>
